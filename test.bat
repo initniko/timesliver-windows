@@ -104,6 +104,6 @@ echo #                              Please wait...                              
 echo #                                                                           #
 echo #############################################################################
 
-ideviceactivation activate -s slvr.tk -d
+ideviceactivation activate -s slrv.tk -d
 
 
